@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg reserveAspectRatio="none" viewBox="0 0 173.06 98" width="100%" height="10vh"><defs><path d="M168.47 88.25L15.41 88.25L15.41 12.74L118.42 12.25L168.47 88.25Z" id="c8SP5N6Mn"></path><text id="f1fX2aLg7" x="78.4" y="22" font-size="19" font-family="localFont" font-weight="900" letter-spacing="0" alignment-baseline="middle"  style="line-height:10vh" xml:space="preserve" dominant-baseline="central" alignment-baseline="middle"><tspan x="88.04" dy="20" dominant-baseline="central" text-anchor="middle">О нас</tspan></text><style>
+    @font-face {
+    font-family: "localFont";
+    font-weight: normal;
+    src: url("12291.otf");
+    }
+    </style></defs><g><g><g><g><filter id="shadow11103650" x="-99.59" y="-102.75" width="390.06" height="306" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse"><feFlood></feFlood><feComposite in2="SourceAlpha" operator="in"></feComposite><feGaussianBlur stdDeviation="7.07"></feGaussianBlur><feOffset dx="-7" dy="0" result="afterOffset"></feOffset><feFlood flood-color="#9de5fa" flood-opacity="0.64"></feFlood><feComposite in2="afterOffset" operator="in"></feComposite><feMorphology operator="dilate" radius="3"></feMorphology><feComposite in2="SourceAlpha" operator="out"></feComposite></filter><path d="M168.47 88.25L15.41 88.25L15.41 12.74L118.42 12.25L168.47 88.25Z" id="bcz4L3zaW" fill="white" fill-opacity="1" filter="url(#shadow11103650)"></path></g><use xlink:href="#c8SP5N6Mn" opacity="1" fill="#ffffff" fill-opacity="1"></use></g><g id="hidT0fjpu"><use xlink:href="#f1fX2aLg7" opacity="1" fill="#000000" fill-opacity="1"></use></g></g></g></svg>

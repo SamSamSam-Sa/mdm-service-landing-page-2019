@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 279 98" width="279" height="98"><defs><path d="M175.23 55.96L279 89L17.31 89L17.31 13L201.05 13L175.23 55.96Z" id="dUtBsg5TC"></path><text id="c1uAzOD3F7" x="126.4" y="120" font-size="34" font-family="Keania One" font-weight="normal" font-style="normal" letter-spacing="0" alignment-baseline="before-edge" transform="matrix(1 0 0 1 -24.435854143965642 -98)" style="line-height:100%" xml:space="preserve" dominant-baseline="text-before-edge"><tspan x="126.4" dy="0em" alignment-baseline="before-edge" dominant-baseline="text-before-edge" text-anchor="middle">Главная</tspan></text><style id="keaniaonenormalnormal">
+    @font-face {
+    font-family: "localFont";
+    font-weight: normal;
+    src: url("12291.otf");
+    }
+    </style></defs><g><g><g><g><filter id="shadow1343491" x="-97.69" y="-102" width="498.69" height="306" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse"><feFlood></feFlood><feComposite in2="SourceAlpha" operator="in"></feComposite><feGaussianBlur stdDeviation="7.07"></feGaussianBlur><feOffset dx="-7" dy="0" result="afterOffset"></feOffset><feFlood flood-color="#9de5fa" flood-opacity="0.64"></feFlood><feComposite in2="afterOffset" operator="in"></feComposite><feMorphology operator="dilate" radius="3"></feMorphology><feComposite in2="SourceAlpha" operator="out"></feComposite></filter><path d="M175.23 55.96L279 89L17.31 89L17.31 13L201.05 13L175.23 55.96Z" id="bJ0u5xL3V" fill="white" fill-opacity="1" filter="url(#shadow1343491)"></path></g><use xlink:href="#dUtBsg5TC" opacity="1" fill="#ffffff" fill-opacity="1"></use></g><g id="fjtiJoRES"><use xlink:href="#c1uAzOD3F7" opacity="1" fill="#000000" fill-opacity="1"></use></g></g></g></svg>

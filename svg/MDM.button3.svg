@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg preserveAspectRatio="none" viewBox="0 0 172.04 98" width="100%" height="10vh"><defs><path d="M10 87.74L162.04 87.74L162.04 12.74L59.71 12.25L10 87.74Z" id="bJQvHZVPk"></path><text id="d12ct6FzpQ" x="107" y="40.5" font-size="19" font-family="localFont" font-weight="900" letter-spacing="0" alignment-baseline="middle"  style="line-height:10vh" xml:space="preserve" dominant-baseline="central" alignment-baseline="middle"><tspan x="107" dy="20" dominant-baseline="central" text-anchor="middle">Сервис</tspan></text><style>
+    @font-face {
+    font-family: "localFont";
+    font-weight: normal;
+    src: url("12291.otf");
+    }
+    </style></defs><g><g><g><g><filter id="shadow9732139" x="-105" y="-102.75" width="389.04" height="305.49" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse"><feFlood></feFlood><feComposite in2="SourceAlpha" operator="in"></feComposite><feGaussianBlur stdDeviation="7.07"></feGaussianBlur><feOffset dx="-7" dy="0" result="afterOffset"></feOffset><feFlood flood-color="#9de5fa" flood-opacity="0.64"></feFlood><feComposite in2="afterOffset" operator="in"></feComposite><feMorphology operator="dilate" radius="3"></feMorphology><feComposite in2="SourceAlpha" operator="out"></feComposite></filter><path d="M10 87.74L162.04 87.74L162.04 12.74L59.71 12.25L10 87.74Z" id="b5Nd55Re28" fill="white" fill-opacity="1" filter="url(#shadow9732139)"></path></g><use xlink:href="#bJQvHZVPk" opacity="1" fill="#ffffff" fill-opacity="1"></use></g><g id="b3qW4tZqZJ"><use xlink:href="#d12ct6FzpQ" opacity="1" fill="#000000" fill-opacity="1"></use></g></g></g></svg>

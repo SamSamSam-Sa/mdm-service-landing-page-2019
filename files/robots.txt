@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /static/media/
+Disallow: /static/js/
+Disallow: /static/css/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Yandex
+Allow: /static/media/
+Disallow: /static/js/
+Disallow: /static/css/
+Host: www.hostland.ru

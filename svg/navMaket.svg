@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#shadow4696714);}
+	.st1{fill:#FFFFFF;}
+	.st2{filter:url(#shadow12875275);}
+	.st3{filter:url(#shadow1862673);}
+	.st4{filter:url(#shadow371004);}
+	.st5{filter:url(#shadow3489605);}
+	.st6{filter:url(#shadow2554969);}
+	.st7{filter:url(#shadow13826265);}
+</style>
+<filter  filterUnits="userSpaceOnUse" height="306" id="shadow4696714" primitiveUnits="userSpaceOnUse" width="417.34" x="473.03" y="-81">
+	<feFlood></feFlood>
+	<feComposite  in2="SourceAlpha" operator="in"></feComposite>
+	<feGaussianBlur  stdDeviation="7.07"></feGaussianBlur>
+	<feOffset  dx="-7" dy="0" result="afterOffset"></feOffset>
+	<feFlood  flood-color="#9de5fa" flood-opacity="0.64"></feFlood>
+	<feComposite  in2="afterOffset" operator="in"></feComposite>
+	<feMorphology  operator="dilate" radius="3"></feMorphology>
+	<feComposite  in2="SourceAlpha" operator="out"></feComposite>
+</filter>
+<filter  filterUnits="userSpaceOnUse" height="306" id="shadow371004" primitiveUnits="userSpaceOnUse" width="448" x="812.67" y="-81">
+	<feFlood></feFlood>
+	<feComposite  in2="SourceAlpha" operator="in"></feComposite>
+	<feGaussianBlur  stdDeviation="7.07"></feGaussianBlur>
+	<feOffset  dx="-7" dy="0" result="afterOffset"></feOffset>
+	<feFlood  flood-color="#9de5fa" flood-opacity="0.64"></feFlood>
+	<feComposite  in2="afterOffset" operator="in"></feComposite>
+	<feMorphology  operator="dilate" radius="3"></feMorphology>
+	<feComposite  in2="SourceAlpha" operator="out"></feComposite>
+</filter>
+<filter  filterUnits="userSpaceOnUse" height="306" id="shadow3489605" primitiveUnits="userSpaceOnUse" width="448" x="100.88" y="-81">
+	<feFlood></feFlood>
+	<feComposite  in2="SourceAlpha" operator="in"></feComposite>
+	<feGaussianBlur  stdDeviation="7.07"></feGaussianBlur>
+	<feOffset  dx="-7" dy="0" result="afterOffset"></feOffset>
+	<feFlood  flood-color="#9de5fa" flood-opacity="0.64"></feFlood>
+	<feComposite  in2="afterOffset" operator="in"></feComposite>
+	<feMorphology  operator="dilate" radius="3"></feMorphology>
+	<feComposite  in2="SourceAlpha" operator="out"></feComposite>
+</filter>
+<filter  filterUnits="userSpaceOnUse" height="306" id="shadow2554969" primitiveUnits="userSpaceOnUse" width="498.69" x="967.97" y="-81">
+	<feFlood></feFlood>
+	<feComposite  in2="SourceAlpha" operator="in"></feComposite>
+	<feGaussianBlur  stdDeviation="7.07"></feGaussianBlur>
+	<feOffset  dx="-7" dy="0" result="afterOffset"></feOffset>
+	<feFlood  flood-color="#9de5fa" flood-opacity="0.64"></feFlood>
+	<feComposite  in2="afterOffset" operator="in"></feComposite>
+	<feMorphology  operator="dilate" radius="3"></feMorphology>
+	<feComposite  in2="SourceAlpha" operator="out"></feComposite>
+</filter>
+<filter  filterUnits="userSpaceOnUse" height="305.49" id="shadow1862673" primitiveUnits="userSpaceOnUse" width="389.04" x="293.29" y="-79.85">
+	<feFlood></feFlood>
+	<feComposite  in2="SourceAlpha" operator="in"></feComposite>
+	<feGaussianBlur  stdDeviation="7.07"></feGaussianBlur>
+	<feOffset  dx="-7" dy="0" result="afterOffset"></feOffset>
+	<feFlood  flood-color="#9de5fa" flood-opacity="0.64"></feFlood>
+	<feComposite  in2="afterOffset" operator="in"></feComposite>
+	<feMorphology  operator="dilate" radius="3"></feMorphology>
+	<feComposite  in2="SourceAlpha" operator="out"></feComposite>
+</filter>
+<filter  filterUnits="userSpaceOnUse" height="306" id="shadow13826265" primitiveUnits="userSpaceOnUse" width="498.69" x="-90.55" y="-79">
+	<feFlood></feFlood>
+	<feComposite  in2="SourceAlpha" operator="in"></feComposite>
+	<feGaussianBlur  stdDeviation="7.07"></feGaussianBlur>
+	<feOffset  dx="-7" dy="0" result="afterOffset"></feOffset>
+	<feFlood  flood-color="#9de5fa" flood-opacity="0.64"></feFlood>
+	<feComposite  in2="afterOffset" operator="in"></feComposite>
+	<feMorphology  operator="dilate" radius="3"></feMorphology>
+	<feComposite  in2="SourceAlpha" operator="out"></feComposite>
+</filter>
+<filter  filterUnits="userSpaceOnUse" height="306" id="shadow12875275" primitiveUnits="userSpaceOnUse" width="390.06" x="682.07" y="-79.85">
+	<feFlood></feFlood>
+	<feComposite  in2="SourceAlpha" operator="in"></feComposite>
+	<feGaussianBlur  stdDeviation="7.07"></feGaussianBlur>
+	<feOffset  dx="-7" dy="0" result="afterOffset"></feOffset>
+	<feFlood  flood-color="#9de5fa" flood-opacity="0.64"></feFlood>
+	<feComposite  in2="afterOffset" operator="in"></feComposite>
+	<feMorphology  operator="dilate" radius="3"></feMorphology>
+	<feComposite  in2="SourceAlpha" operator="out"></feComposite>
+</filter>
+<g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path id="a2jMeLnucN" d="M0,0"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g id="b1xA4KiOhP" class="st0">
+					<rect x="588" y="34" class="st1" width="180.3" height="76"/>
+				</g>
+			</g>
+			<g>
+				<path id="a4VkxEsyIV" class="st1" d="M588,34h180.3v76H588V34z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g id="d1fjVv12CY" class="st2">
+					<polygon class="st1" points="950.1,111.2 797.1,111.2 797.1,35.7 900.1,35.2 					"/>
+				</g>
+			</g>
+			<g>
+				<path id="fAeotdxtL" class="st1" d="M950.1,111.2H797.1V35.7l103-0.5L950.1,111.2z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g id="a1P6r385Rw" class="st3">
+					<polygon class="st1" points="408.3,110.6 560.3,110.6 560.3,35.6 458,35.2 					"/>
+				</g>
+			</g>
+			<g>
+				<path id="bO2k3oSqT" class="st1" d="M408.3,110.6h152v-75L458,35.2L408.3,110.6z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g id="a1wbsLBEVY" class="st4">
+					<polygon class="st1" points="980,110 1033.7,110 1138.7,72.3 1109.5,34 927.7,34 					"/>
+				</g>
+			</g>
+			<g>
+				<path id="c672QAN9c" class="st1" d="M980,110h53.7l105-37.7L1109.5,34H927.7L980,110z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g id="b1iLXYahIf" class="st5">
+					<polygon class="st1" points="374.5,110 320.9,110 215.9,72.3 245,34 426.9,34 					"/>
+				</g>
+			</g>
+			<g>
+				<path id="a1JaZBZooh" class="st1" d="M374.5,110h-53.7l-105-37.7L245,34h181.8L374.5,110z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g id="c4vVlUtlHh" class="st6">
+					<polygon class="st1" points="1186.7,77 1083,110 1344.7,110 1344.7,34 1160.9,34 					"/>
+				</g>
+			</g>
+			<g>
+				<path id="deFZdfeSb" class="st1" d="M1186.7,77L1083,110h261.7V34h-183.7L1186.7,77z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g id="oaRWNKdYh" class="st7">
+					<polygon class="st1" points="182.4,79 286.1,112 24.5,112 24.5,36 208.2,36 					"/>
+				</g>
+			</g>
+			<g>
+				<path id="bpaofExHQ" class="st1" d="M182.4,79l103.8,33H24.5V36h183.7L182.4,79z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<path class="st1" d="M96.7,171"/>
+<g>
+	
+		<image style="overflow:visible;opacity:0.75;" width="3746" height="770" xlink:href="84860453.png"  transform="matrix(1 0 0 1 2450 -244)">
+	</image>
+	<g>
+		
+			<image style="overflow:visible;opacity:0.7;" width="3718" height="744" xlink:href="84860451.png"  transform="matrix(1 0 0 1 2470 -231)">
+		</image>
+		
+			<image style="overflow:visible;" width="3687" height="713" xlink:href="84860457.png"  transform="matrix(1 0 0 1 2485.2217 -215.416)">
+		</image>
+	</g>
+</g>
+</svg>
